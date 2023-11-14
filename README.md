@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning how to code and use GitHub for an E-Portfolio!
 
 <!--
 **paytonalyssahudson/paytonalyssahudson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
